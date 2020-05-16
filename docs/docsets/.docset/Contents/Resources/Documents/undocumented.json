@@ -1,0 +1,26 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/michaelfrick/Projects/MFDataStructures/Sources/MFDataStructures/Node.swift",
+      "line": 10,
+      "symbol": "Node.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/michaelfrick/Projects/MFDataStructures/Sources/MFDataStructures/Node.swift",
+      "line": 11,
+      "symbol": "Node.next",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/michaelfrick/Projects/MFDataStructures/Sources/MFDataStructures/Node.swift",
+      "line": 13,
+      "symbol": "Node.init(value:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/michaelfrick/Projects/MFDataStructures"
+}

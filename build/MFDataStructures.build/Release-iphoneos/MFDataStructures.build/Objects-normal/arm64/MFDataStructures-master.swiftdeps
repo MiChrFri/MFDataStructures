@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "cb0c716304f037f08f9e27a7a7b5818e"
+build_time: [1589617456, 885692000]
+inputs:
+  "/Users/michaelfrick/Projects/MFDataStructures/Sources/MFDataStructures/Node.swift": [9223372036, 854775807]
+  "/Users/michaelfrick/Projects/MFDataStructures/Sources/MFDataStructures/Queue.swift": [9223372036, 854775807]
