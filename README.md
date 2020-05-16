@@ -2,4 +2,4 @@
 
 A description of this package.
 
-[Documentation](docs/index.html)
+[Documentation](https://htmlpreview.github.io/?docs/index.html)
