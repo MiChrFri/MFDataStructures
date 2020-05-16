@@ -2,14 +2,7 @@
   "warnings": [
     {
       "file": "/Users/michaelfrick/Projects/MFDataStructures/Sources/MFDataStructures/Node.swift",
-      "line": 16,
-      "symbol": "Node.lala",
-      "symbol_kind": "source.lang.swift.decl.var.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/michaelfrick/Projects/MFDataStructures/Sources/MFDataStructures/Node.swift",
-      "line": 18,
+      "line": 15,
       "symbol": "Node.init(value:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
